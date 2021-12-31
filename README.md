@@ -3,12 +3,18 @@
 
 <h2> INSTALLATION </h2>
 
-♦ Clone the repository
-♦ Open HappyScrappy.json
-♦ Fill the EMAIL_FROM, EMAIL_TO and EMAIL_PASSWORD fields and save
-♦ Use "pip install selenium"
-♦ Use "py HappyScrappy.py"
-
+<ul>
+  ♦ Clone the repository
+  <br>
+  ♦ Open HappyScrappy.json
+  <br>
+  ♦ Fill the EMAIL_FROM, EMAIL_TO and EMAIL_PASSWORD fields and save
+  <br>
+  ♦ Use "pip install selenium"
+  <br>
+  ♦ Use "py HappyScrappy.py"
+</ul>
+  
 <h2> DEPENDENCIES </h2>
 
 ♦ Python 3
