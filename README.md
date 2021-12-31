@@ -1,8 +1,8 @@
-# HappyScrapper
-<h1>Google news web scrapper</h1>
+# HappyScrapper ~ Google news web scrapper
+<br><br>
+
 
 <h2> INSTALLATION </h2>
-
 <ul>
   ♦ Clone the repository
   <br>
@@ -17,6 +17,10 @@
   
 <h2> DEPENDENCIES </h2>
 
-♦ Python 3
-♦ Edge browser
-♦ Selenium
+<ul>
+  ♦ Python 3
+  <br>
+  ♦ Edge browser
+  <br>
+  ♦ Selenium
+</ul>
