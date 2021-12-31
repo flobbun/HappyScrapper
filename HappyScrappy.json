@@ -1,0 +1,18 @@
+{
+    "CONFIG": {
+        "EMAIL": {
+            "HOST": "smtp.gmail.com",
+            "PORT": 465,
+            "EMAIL_FROM": "",
+            "EMAIL_TO": "",
+            "EMAIL_PASSWORD": ""
+        },
+        "ADVANCED": {
+            "PING_INTERVAL": 10,
+            "N_LINKS_PER_PAGE": 5,
+            "DRIVER":"Edge",
+            "DRIVER_PATH": "driver/msedgedriver.exe",
+            "DURATION": 5
+        }
+    }
+}
